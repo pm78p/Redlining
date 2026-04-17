@@ -1,0 +1,4 @@
+majority_race,N Trips,Mean Error ($),RMSE ($),Mean % Error,Pred. $/mile
+majority_black,2289,-0.287,8.528,9.021,3.849
+majority_white,34656,-0.107,7.391,12.519,7.524
+mixed,2816,1.248,7.687,20.868,5.176
